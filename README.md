@@ -21,3 +21,12 @@ Se genera un gráfico de barras que permite visualizar diferencias de expresión
 ## Autor
 
 Álvaro Orta Toscano – estudiante de Ingeniería de la Salud de la universidad de Sevilla con interés en bioinformática.
+
+## Conclusiones
+
+Como podemos observar en el archivo `.ipynb`,
+- El gen con mayor diferencia de expresión es: TP53
+- Esto indica que está mucho más activado en el tumor.
+- Este tipo de análisis puede ser útil para detectar genes relevantes en cáncer.
+
+
