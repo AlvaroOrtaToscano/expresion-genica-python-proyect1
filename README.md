@@ -18,10 +18,6 @@ Se carga un archivo `.csv` con niveles de expresión de 5 genes. El objetivo es 
 
 Se genera un gráfico de barras que permite visualizar diferencias de expresión. Genes como **TP53** o **EGFR** aparecen más activos en el tumor.
 
-## Autor
-
-Álvaro Orta Toscano – estudiante de Ingeniería de la Salud de la universidad de Sevilla con interés en bioinformática.
-
 ## Conclusiones
 
 Como podemos observar en el archivo `.ipynb`,
@@ -29,4 +25,6 @@ Como podemos observar en el archivo `.ipynb`,
 - Esto indica que está mucho más activado en el tumor.
 - Este tipo de análisis puede ser útil para detectar genes relevantes en cáncer.
 
+## Autor
 
+Álvaro Orta Toscano – estudiante de Ingeniería de la Salud de la universidad de Sevilla con interés en bioinformática.
